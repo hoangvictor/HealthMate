@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Cabin', sans-serif;
   color: #444444;
 }
 
@@ -28,7 +28,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Cabin', sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -189,7 +189,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   font-weight: 700;
   letter-spacing: 0.5px;
-  font-family: "Roboto Slab", sans-serif;
+  font-family: 'Cabin', sans-serif;
 }
 
 #header .logo a {
@@ -455,7 +455,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 90vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/hero-bg.png") top center;
   background-size: cover;
   margin-bottom: -200px;
 }
@@ -480,7 +480,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started {
-  font-family: "Roboto Slab", sans-serif;
+  font-family: 'Cabin', sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 14px;
@@ -814,7 +814,7 @@ section {
 .counts .count-box p {
   padding: 0;
   margin: 0;
-  font-family: "Roboto Slab", sans-serif;
+  font-family: 'Cabin', sans-serif;
   font-size: 14px;
 }
 
@@ -1172,7 +1172,7 @@ section {
 .faq .faq-list a {
   display: block;
   position: relative;
-  font-family: "Roboto Slab", sans-serif;
+  font-family: 'Cabin', sans-serif;
   font-size: 16px;
   line-height: 24px;
   font-weight: 500;
@@ -1508,7 +1508,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Roboto Slab", sans-serif;
+  font-family: 'Cabin', sans-serif;
   color: #777777;
 }
 
