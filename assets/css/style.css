@@ -201,6 +201,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo-text {
+  padding-left: 5px;
+  padding-top: 5px;
   margin: 0px;
 }
 
@@ -212,7 +214,7 @@ h1, h2, h3, h4, h5, h6 {
   background: #00574C;
   color: #fff;
   border-radius: 50px;
-  padding: 8px 25px;
+  padding: 15px 30px;
   white-space: nowrap;
   transition: 0.3s;
   font-size: 14px;
@@ -263,7 +265,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  font-size: 14px;
+  font-size: 16px;
   color: #00574C;
   white-space: nowrap;
   transition: 0.3s;
