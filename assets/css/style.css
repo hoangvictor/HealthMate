@@ -210,6 +210,7 @@ h1, h2, h3, h4, h5, h6 {
 * Appointment Button *
 */
 .appointment-btn {
+  margin-right: 25px;
   margin-left: 25px;
   background: #00574C;
   color: #fff;
@@ -224,13 +225,6 @@ h1, h2, h3, h4, h5, h6 {
 .appointment-btn:hover {
   background: #689f38;
   color: #fff;
-}
-
-@media (max-width: 768px) {
-  .appointment-btn {
-    margin: 0 15px 0 0;
-    padding: 6px 18px;
-  }
 }
 
 /*--------------------------------------------------------------
@@ -711,6 +705,13 @@ section {
   color: #848484;
 }
 
+@media (max-width: 1200px) {
+  .why-us .icon-boxes .icon-box {
+      padding: 10px;
+      margin: 10px;
+  }
+}
+
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
@@ -776,6 +777,13 @@ section {
   margin-left: 85px;
   line-height: 24px;
   font-size: 14px;
+}
+
+@media (max-width: 992px) {
+  .about .icon-box {
+    padding: 10px;
+    margin: 10px;
+  }
 }
 
 /*--------------------------------------------------------------
